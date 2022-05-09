@@ -1,16 +1,17 @@
 .about_me{
     background-image: url(../img/about_me/5f772bf04d7077002204b9f5_optimized_1920.webp);
-    background-size: cover;
-    background-position: center;
-    min-height: 1080px;
-    min-width: 1200px;
+    width: 100%;
     text-align: right;
     text-align: justify;
+    min-width: 992px;
+    height: 774px;
     font-family: "Donegal One", serif;
+    
+    
 }
 .revue{
-    padding: 200px 70px 100px 70px;
-    margin: 0 100px 300px 700px;  
+    padding: -380px 70px 90px 70px;
+    margin: -80px 250px 320px 520px;  
 }
 .about_me_title{
     font-size: 51px;

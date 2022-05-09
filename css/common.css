@@ -6,4 +6,16 @@
 }
 .body{
     font-family: Donegal+One, serif;
+    margin: 0;
+    background-color: #f7f7f7;
+}
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
 }
